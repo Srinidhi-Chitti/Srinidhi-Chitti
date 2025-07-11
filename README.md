@@ -1,24 +1,34 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Srinidhi-Chitti/Srinidhi-Chitti/main/Red%20Elegant%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner.png" alt="Srinidhi Chitti Banner" width="100%" />
+</p>
 
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Srinidhi Chitti</h1>
 <h3 align="center">A passionate Full-Stack Developer & Cloud Enthusiast 🌥️ | I love turning ideas into real-world solutions 💡</h3>
 
+<!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Enthusiast;Tech+Community+Builder;Creative+Thinker;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Enthusiast;Tech+Community+Builder;Creative+Thinker;Problem+Solver" />
 </p>
 
 ---
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srinidhi-chitti&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=srinidhi-chitti&theme=monokai&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=srinidhi-chitti&label=Profile%20views&color=8B0000&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srinidhi-Chitti&theme=flat&no-frame=true&margin-w=10&title_color=8B0000&text_color=8B0000&icon_color=8B0000" alt="GitHub Trophies - Cherry Red Theme" />
+</p>
+
+---
+
 
 ## 🚀 About Me
 
@@ -97,13 +107,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:srinidhichittiwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/srinidhichitti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Srinidhi-Chitti/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://hashnode.com/@Sri123" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/schitti1" target="_blank"><img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/schitti@3" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://leetcode.com/srinidhichitti04/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:srinidhichittiwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/srinidhichitti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Srinidhi-Chitti/" target="_blank"><img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://hashnode.com/@Sri123" target="_blank"><img src="https://img.shields.io/badge/Hashnode-8B0000?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/schitti1" target="_blank"><img src="https://img.shields.io/badge/Codechef-8B0000?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/schitti@3" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-8B0000?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/srinidhichitti04/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-8B0000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
