@@ -17,7 +17,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🚀 About Me
@@ -119,11 +118,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Srinidhi-Chitti/Srinidhi-Chitti/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
 > *“I don't just write code; I build ideas. Every project I touch is driven by impact, innovation, and improvement.”*
-
