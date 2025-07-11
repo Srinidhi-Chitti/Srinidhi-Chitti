@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Srinidhi Chitti</h1>
 <h3 align="center">A passionate Full-Stack Developer & Cloud Enthusiast 🌥️ | I love turning ideas into real-world solutions 💡</h3>
 
@@ -54,6 +55,8 @@
 
 </div>
 
+---
+
 ## 💼 Work Experience
 
 ### 🛰️ INS Kalinga - Indian Navy (Dec 2024 – May 2025)
@@ -101,19 +104,6 @@
   <a href="https://www.codechef.com/users/schitti1" target="_blank"><img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/schitti@3" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://leetcode.com/srinidhichitti04/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinidhi-chitti&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhi-chitti&layout=compact&theme=react" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhi-chitti&theme=react" />
 </p>
 
 ---
