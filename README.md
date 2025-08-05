@@ -14,12 +14,10 @@
 
 
 ---
-
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srinidhi-chitti&label=Profile%20views&color=8B0000&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Srinidhi-Chitti&label=Profile%20views&color=8B0000&style=flat-square" alt="Profile Views" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
