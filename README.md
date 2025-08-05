@@ -9,8 +9,9 @@
 
 <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Enthusiast;Tech+Community+Builder;Creative+Thinker;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Google+Student+Ambassador;Tech+Community+Builder" />
 </p>
+
 
 ---
 
@@ -103,18 +104,17 @@
 - 🏅 **GCGC Hackathon 2023** – Winning Team (StemQuest)
 
 ---
+<!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinidhi-Chitti&show_icons=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=8B0000&bg_color=00000000" alt="Srinidhi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinidhi-Chitti&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=8B0000&sideLabels=8B0000&dates=8B0000" alt="Srinidhi's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Srinidhi-Chitti&theme=transparent&hide_border=true&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&currStreakNum=8B0000&sideLabels=8B0000&sideNums=8B0000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi-Chitti&layout=compact&hide_border=true&title_color=8B0000&text_color=8B0000&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi-Chitti&layout=compact&hide_border=true&title_color=8B0000&text_color=8B0000&bg_color=00000000" alt="Top Langs" />
 </p>
 
 
