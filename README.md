@@ -102,8 +102,9 @@
 - 🏅 **GCGC Hackathon 2023** – Winning Team (StemQuest)
 
 ---
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Srinidhi-Chitti&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=8B0000&sideLabels=8B0000&dates=8B0000" alt="Srinidhi's GitHub streak" />
