@@ -4,12 +4,12 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Srinidhi Chitti</h1>
-<h3 align="center">A passionate Full-Stack Developer & Cloud Enthusiast 🌥️ | I love turning ideas into real-world solutions 💡</h3>
+<h1 align="center">Hello, I'm Srinidhi Chitti</h1>
+<h3 align="center">Final Year Computer Science Student @ GITAM | Building impactful experiences with Tech & Ideas</h3>
 
 <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Google+Student+Ambassador;Tech+Community+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Intern+@+Indian+Navy,+HPCL;GDSC+Ambassador+@+GITAM;Top+100+@+GITAM" />
 </p>
 
 
@@ -29,18 +29,19 @@
 ---
 
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Final Year Computer Science undergrad at GITAM University (CGPA: 8.64)
-- 🛠️ Intern @ HPCL (Server Automation, Linux Tools)
-- 🛰️ Intern @ INS Kalinga, Indian Navy (Offline GPS Tracking System)
-- 💡 Projects in AI, Cloud, and Web with creative use of tech
-- ✍️ I write tech blogs at [Hashnode](https://hashnode.com/@Sri123)
-- 🌐 Portfolio: [srinidhi-chitti.github.io/portfolio](https://srinidhi-chitti.github.io/portfolio)
+I am a final-year Computer Science undergraduate at **GITAM University** (CGPA **8.64**) with a strong focus on building reliable, user-centric software. I contributed to **server automation**, **Linux tooling**, and a secure **offline GPS tracking system**. I’m passionate about applying my learnings to solve real-world problems.
+
+- **Intern @ HPCL** — VMware, Kaali Linux, and an emergency routing system
+- **Intern @ INS Kalinga, Indian Navy** — Offline GPS vehicle tracking system (secure, no-internet)
+- Tech blogs on **Hashnode**: [hashnode.com/@Sri123](https://hashnode.com/@Sri123)
+- Portfolio: [https://portfolioharrypotterthemed.vercel.app/](https://portfolioharrypotterthemed.vercel.app/)
+
 
 ---
 
-## 💻 Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
@@ -66,32 +67,33 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🛰️ INS Kalinga - Indian Navy (Dec 2024 – May 2025)
+### INS Kalinga - Indian Navy (Dec 2024 – May 2025)
 - Built an offline GPS vehicle tracking system with SIM7600EI
 - GUI using `PyQt5`, accurate distance calc between points
 - Real-time tracking with no internet/WiFi
 
-### 🖥️ HPCL Visakh Refinery – IT Dept (June 2025 – Present)
+### HPCL Visakh Refinery – IT Dept (June 2025 – Present)
 - Managing data center servers and system automation
-- Implemented scripts using Linux, CN & OS principles
+- Implemented scripts using Linux, CN & OS principles to building a server using 2 pen drives and old laptop
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-🔭 **[Marauder’s Map (Harry Potter)](https://github.com/Srinidhi-Chitti/Marauders-Map)**  
+**[Marauder’s Map (Harry Potter)](https://github.com/Srinidhi-Chitti/Marauders-Map)**  
 *Map-based pathfinding visualizer* | PyQt5, Folium, HP-API
 
-🧑‍🍼 **[Heal-O-Matic](https://heal-o-matic-postpartum-care-website.vercel.app/)**  
+**[Heal-O-Matic](https://heal-o-matic-postpartum-care-website.vercel.app/)**  
 *Postpartum care platform* | React, Tailwind, Firebase
 
-🎯 **[Dept. Placement Portal](https://github.com/Srinidhi-Chitti)**  
+**[Dept. Placement Portal]**  
 *NLP-based platform with ATS analysis & real-time filtering*
 
-🛰️ **[Indian Navy GPS Tracker](https://github.com/Srinidhi-Chitti/GPS-Offline-system-for-the-Indian-NAVY)**  
+**[Indian Navy GPS Tracker]**  
 *Offline GSM-based vehicle tracking*
+
 
 ---
 
