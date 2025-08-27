@@ -106,16 +106,14 @@ I am a final-year Computer Science undergraduate at **GITAM University** (CGPA *
 ---
 
 
-## 📊 GitHub Streak Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Srinidhi-Chitti&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=8B0000&sideLabels=8B0000&dates=8B0000" alt="Srinidhi's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Srinidhi-Chitti&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=8B0000&sideLabels=8B0000&dates=8B0000&v=1" alt="Srinidhi's GitHub streak" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi-Chitti&layout=compact&hide_border=true&title_color=8B0000&text_color=8B0000&bg_color=00000000" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi-Chitti&layout=compact&hide_border=true&title_color=8B0000&text_color=8B0000&bg_color=00000000&v=1" alt="Top Langs" />
 </p>
+
 
 
 ## 🌐 Connect With Me
